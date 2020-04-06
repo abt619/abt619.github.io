@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于博主
 permalink: /about/
 ---
 
@@ -8,5 +8,4 @@ permalink: /about/
 
 软件测试工程师
 
-#### Contact me
 [abt619@foxmail.com](mailto:abt619@foxmail.com)
