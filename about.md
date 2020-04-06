@@ -6,10 +6,7 @@ permalink: /about/
 
 刘钊
 
-### More Information
+软件测试工程师
 
-测试从业者
-
-### Contact me
-
+#### Contact me
 [abt619@foxmail.com](mailto:abt619@foxmail.com)
